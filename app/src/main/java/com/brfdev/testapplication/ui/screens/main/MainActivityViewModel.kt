@@ -1,4 +1,4 @@
-package com.brfdev.testapplication.ui.screens
+package com.brfdev.testapplication.ui.screens.main
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

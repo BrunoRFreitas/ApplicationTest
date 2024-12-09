@@ -1,4 +1,4 @@
-package com.brfdev.testapplication.ui.screens
+package com.brfdev.testapplication.ui.screens.welcome
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

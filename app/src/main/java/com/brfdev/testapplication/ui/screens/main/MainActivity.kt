@@ -1,4 +1,4 @@
-package com.brfdev.testapplication.ui.screens
+package com.brfdev.testapplication.ui.screens.main
 
 import android.content.Intent
 import android.os.Bundle
@@ -12,6 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.brfdev.testapplication.R
+import com.brfdev.testapplication.ui.screens.welcome.WelcomeScreen
 import com.brfdev.testapplication.ui.theme.TestApplicationTheme
 
 class MainActivity : ComponentActivity() {

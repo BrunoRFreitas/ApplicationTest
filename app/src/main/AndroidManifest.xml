@@ -13,7 +13,7 @@
         android:theme="@style/Theme.TestApplication"
         tools:targetApi="31">
         <activity
-            android:name=".ui.screens.MainActivity"
+            android:name=".ui.screens.main.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.TestApplication">
@@ -24,7 +24,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".ui.screens.WelcomeScreen"/>
+        <activity android:name=".ui.screens.welcome.WelcomeScreen"/>
     </application>
 
 </manifest>
